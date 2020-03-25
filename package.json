@@ -1,5 +1,5 @@
 {
-  "name": "vue-mermaid",
+  "name": "@carpathian-ninjas/vue-mermaid",
   "description": "flowchart of mermaid with vue componet",
   "version": "0.0.12",
   "main": "dist/vue-mermaid.js",

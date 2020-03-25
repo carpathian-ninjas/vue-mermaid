@@ -232,4 +232,8 @@ export default {
 };
 </script>
 
-<style></style>
+<style>
+:root {
+  --mermaid-font-family: "Open Sans" !important;
+}
+</style>
